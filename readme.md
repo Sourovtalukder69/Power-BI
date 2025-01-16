@@ -1,4 +1,5 @@
 📊 Power BI
+- ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 Welcome to the Power BI repository! This repository is a one-stop resource for everything related to Power BI—Microsoft's leading business intelligence tool. Whether you're learning the basics, exploring advanced features, or working on case studies and projects, this collection has something for everyone.
 
